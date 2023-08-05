@@ -1,0 +1,55 @@
+﻿@page "/"
+@inject NavigationManager NavigationManager
+<PageTitle>List Note</PageTitle>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th scope="col">#</th>
+            <th scope="col">Title</th>
+            <th scope="col">Description</th>
+            <th scope="col">Action</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th scope="row">1</th>
+            <td>Go to shop</td>
+            <td>Buy bread,milk and banana</td>
+            <td>
+                <div class="row">
+                    <button type="button" class="btn btn-warning" @onclick="HandleEdit">Edit</button>
+                    <button type="button" class="btn btn-danger">Delete</button>
+                </div>
+            </td>
+        </tr>
+        <tr>
+            <th scope="row">2</th>
+            <td>Go to gym</td>
+            <td>Push up, pull up</td>
+            <td>
+                <div class="row">
+                    <button type="button" class="btn btn-warning" @onclick="HandleEdit">Edit</button>
+                    <button type="button" class="btn btn-danger">Delete</button>
+                </div>
+            </td>
+        </tr>
+        <tr>
+            <th scope="row">3</th>
+            <td>Do assignment</td>
+            <td>Web Assignment, Android assignment and ios assignment</td>
+            <td>
+                <div class="row">
+                    <button type="button" class="btn btn-warning" @onclick="HandleEdit">Edit</button>
+                    <button type="button" class="btn btn-danger">Delete</button>
+                </div>
+            </td>
+        </tr>
+    </tbody>
+</table>
+@code{
+    private void HandleEdit()
+    {
+        NavigationManager.NavigateTo("/editnote"); // Redirect to the dashboard or any other initial page
+    }
+}
