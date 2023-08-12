@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "uHHQY9JsqrpMufgrjLwigdUqL4n5WPdeVmT6hklvZgQ=",
+  "Source": "NoteWebApi",
+  "BasePath": "_content/NoteWebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
