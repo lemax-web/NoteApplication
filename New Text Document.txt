@@ -1,0 +1,5 @@
+Microsoft.AspNetCore.Components.WebAssembly.Rendering.WebAssemblyRenderer[100]
+      Unhandled exception rendering component: TypeError: Failed to fetch
+System.Net.Http.HttpRequestException: TypeError: Failed to fetch
+ ---> System.Runtime.InteropServices.JavaScript.JSException: TypeError: Failed to fetch
+   at System.Net.Http.BrowserHttpHandler.SendAsync(HttpRequestMessage request, CancellationToken cancellationToken)

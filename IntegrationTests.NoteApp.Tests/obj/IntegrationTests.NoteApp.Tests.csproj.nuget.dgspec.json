@@ -36,6 +36,9 @@
               "C:\\Users\\Research\\source\\repos\\NoteApp\\NoteApi\\NoteApi.csproj": {
                 "projectPath": "C:\\Users\\Research\\source\\repos\\NoteApp\\NoteApi\\NoteApi.csproj"
               },
+              "C:\\Users\\Research\\source\\repos\\NoteApp\\NoteApp.ClassLib\\NoteApp.ClassLib.csproj": {
+                "projectPath": "C:\\Users\\Research\\source\\repos\\NoteApp\\NoteApp.ClassLib\\NoteApp.ClassLib.csproj"
+              },
               "C:\\Users\\Research\\source\\repos\\NoteApp\\NoteApp\\NoteApp.csproj": {
                 "projectPath": "C:\\Users\\Research\\source\\repos\\NoteApp\\NoteApp\\NoteApp.csproj"
               }
@@ -138,7 +141,11 @@
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\Research\\source\\repos\\NoteApp\\NoteApp.ClassLib\\NoteApp.ClassLib.csproj": {
+                "projectPath": "C:\\Users\\Research\\source\\repos\\NoteApp\\NoteApp.ClassLib\\NoteApp.ClassLib.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -151,6 +158,10 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Cors": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[7.0.10, )"
@@ -164,6 +175,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[7.0.10, )"
+            },
+            "Microsoft.Extensions.Http": {
+              "target": "Package",
+              "version": "[7.0.0, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
@@ -185,6 +200,66 @@
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
             },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Research\\source\\repos\\NoteApp\\NoteApp.ClassLib\\NoteApp.ClassLib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Research\\source\\repos\\NoteApp\\NoteApp.ClassLib\\NoteApp.ClassLib.csproj",
+        "projectName": "NoteApp.ClassLib",
+        "projectPath": "C:\\Users\\Research\\source\\repos\\NoteApp\\NoteApp.ClassLib\\NoteApp.ClassLib.csproj",
+        "packagesPath": "C:\\Users\\Research\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Research\\source\\repos\\NoteApp\\NoteApp.ClassLib\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Research\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
@@ -221,7 +296,11 @@
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\Research\\source\\repos\\NoteApp\\NoteApp.ClassLib\\NoteApp.ClassLib.csproj": {
+                "projectPath": "C:\\Users\\Research\\source\\repos\\NoteApp\\NoteApp.ClassLib\\NoteApp.ClassLib.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -242,6 +321,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[6.0.16, )"
+            },
+            "Microsoft.Extensions.Http": {
+              "target": "Package",
+              "version": "[7.0.0, )"
             }
           },
           "imports": [

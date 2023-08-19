@@ -1,0 +1,12 @@
+C:\Users\Research\source\repos\NoteApp\NoteApp.ClassLib\bin\Debug\net6.0\NoteApp.ClassLib.deps.json
+C:\Users\Research\source\repos\NoteApp\NoteApp.ClassLib\bin\Debug\net6.0\NoteApp.ClassLib.dll
+C:\Users\Research\source\repos\NoteApp\NoteApp.ClassLib\bin\Debug\net6.0\NoteApp.ClassLib.pdb
+C:\Users\Research\source\repos\NoteApp\NoteApp.ClassLib\obj\Debug\net6.0\NoteApp.ClassLib.csproj.AssemblyReference.cache
+C:\Users\Research\source\repos\NoteApp\NoteApp.ClassLib\obj\Debug\net6.0\NoteApp.ClassLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Research\source\repos\NoteApp\NoteApp.ClassLib\obj\Debug\net6.0\NoteApp.ClassLib.AssemblyInfoInputs.cache
+C:\Users\Research\source\repos\NoteApp\NoteApp.ClassLib\obj\Debug\net6.0\NoteApp.ClassLib.AssemblyInfo.cs
+C:\Users\Research\source\repos\NoteApp\NoteApp.ClassLib\obj\Debug\net6.0\NoteApp.ClassLib.csproj.CoreCompileInputs.cache
+C:\Users\Research\source\repos\NoteApp\NoteApp.ClassLib\obj\Debug\net6.0\NoteApp.ClassLib.dll
+C:\Users\Research\source\repos\NoteApp\NoteApp.ClassLib\obj\Debug\net6.0\refint\NoteApp.ClassLib.dll
+C:\Users\Research\source\repos\NoteApp\NoteApp.ClassLib\obj\Debug\net6.0\NoteApp.ClassLib.pdb
+C:\Users\Research\source\repos\NoteApp\NoteApp.ClassLib\obj\Debug\net6.0\ref\NoteApp.ClassLib.dll

@@ -1,4 +1,7 @@
 ﻿@page "/"
+@using NoteApp.ClassLib.Model;
+@using NoteApp.Services;
+@inject INoteService noteService;
 @inject NavigationManager NavigationManager
 <PageTitle>List Note</PageTitle>
 
@@ -48,6 +51,22 @@
     </tbody>
 </table>
 @code{
+    private List<Note> userList = new List<Note>();
+
+
+
+    protected override async Task OnInitializedAsync()
+    {
+        await getUsers();
+
+    }
+    private async Task getUsers()
+    {
+        userList = await noteService.getUsers();
+        Console.WriteLine("User List Count " + userList.Count);
+    }
+
+
     private void HandleEdit()
     {
         NavigationManager.NavigateTo("/editnote"); // Redirect to the dashboard or any other initial page

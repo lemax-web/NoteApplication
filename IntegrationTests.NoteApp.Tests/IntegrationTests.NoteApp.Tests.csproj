@@ -23,6 +23,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\NoteApi\NoteApi.csproj" />
+    <ProjectReference Include="..\NoteApp.ClassLib\NoteApp.ClassLib.csproj" />
     <ProjectReference Include="..\NoteApp\NoteApp.csproj" />
   </ItemGroup>
 

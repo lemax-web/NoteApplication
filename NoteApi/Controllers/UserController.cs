@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
-using NoteApi.Model;
+using NoteApp.ClassLib.Model;
 using RecipeWebApi.Data;
 
 namespace NoteApi.Controllers

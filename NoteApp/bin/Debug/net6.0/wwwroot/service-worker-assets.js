@@ -121,11 +121,11 @@
       "url": "_framework\/Microsoft.Extensions.Configuration.Json.dll"
     },
     {
-      "hash": "sha256-E+EQglKrE9ZXpnxrlzjqNQume4drxQ5JM68M0uAigAE=",
+      "hash": "sha256-+P6L7b7e\/g+rfmjEj1CNSGtCJY4WwJVyiG1yk1B72tY=",
       "url": "_framework\/Microsoft.Extensions.DependencyInjection.dll"
     },
     {
-      "hash": "sha256-nM2DA1GqKLxoPU+NHO\/Z5yQWH5ctJb+2Tu5b9VxIxeM=",
+      "hash": "sha256-CHgTsvk1C4wtMeW8mlQQ+rGY+trIe7Emn0HebmrX7mI=",
       "url": "_framework\/Microsoft.Extensions.DependencyInjection.Abstractions.dll"
     },
     {
@@ -141,7 +141,11 @@
       "url": "_framework\/Microsoft.Extensions.FileSystemGlobbing.dll"
     },
     {
-      "hash": "sha256-GDZQCBtVHfrZZ6fL95lGoinLeUWLjQShLbfESwO7mrc=",
+      "hash": "sha256-BNE58lf0OYDCaXqpNU+dBopgzPzzDgY37gvnao231OI=",
+      "url": "_framework\/Microsoft.Extensions.Http.dll"
+    },
+    {
+      "hash": "sha256-aDOpB2uaS7QZXIfNrHzPS5m4bR\/ISKCOB01mjR4DUw4=",
       "url": "_framework\/Microsoft.Extensions.Logging.dll"
     },
     {
@@ -149,11 +153,11 @@
       "url": "_framework\/Microsoft.Extensions.Logging.Abstractions.dll"
     },
     {
-      "hash": "sha256-eGESyy9mRu8RcCGajAu4E8nxSmeB5nxiZkFPVaZ5Vl0=",
+      "hash": "sha256-eSdlox4SJgv3qnYw0Q5A3Z8uFA\/7VngjeiBVJmtHgRI=",
       "url": "_framework\/Microsoft.Extensions.Options.dll"
     },
     {
-      "hash": "sha256-jOmoWSfsdQexH\/6QCA56gR1RMEqeix2iDDUBWbpAOQI=",
+      "hash": "sha256-hXhFRImkOdXevYqMqYRLOzgHZWPq8ZXMXtS9J6jFTqM=",
       "url": "_framework\/Microsoft.Extensions.Primitives.dll"
     },
     {
@@ -861,11 +865,19 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-nXE87mRawMdb4FwisMHvhpwhDYheDvAZsSyuAgc9Cd4=",
+      "hash": "sha256-ni4n9hdXek7H6jhoqmBjIn0Zs4JCevePdjGL6bheKrE=",
+      "url": "_framework\/NoteApp.ClassLib.dll"
+    },
+    {
+      "hash": "sha256-WijkPQ4jnREJJgv6yMsrP46k2mt+sMQ1TXFUzjoHigk=",
+      "url": "_framework\/NoteApp.ClassLib.pdb"
+    },
+    {
+      "hash": "sha256-N8oTFuFK\/\/da9cZWidA6+yHkSaZdyTFeVIUvMzbbEGA=",
       "url": "_framework\/NoteApp.dll"
     },
     {
-      "hash": "sha256-K+xrk2IgNw2ArbdHYAYbsAJBrCTEt+5\/HwTP7f9qV+8=",
+      "hash": "sha256-03Bpp1pcMAu5lCsN0e6Pkz9cPDkTgZPlQxtiUyBsieA=",
       "url": "_framework\/NoteApp.pdb"
     },
     {
@@ -873,9 +885,9 @@
       "url": "_framework\/blazor.webassembly.js"
     },
     {
-      "hash": "sha256-40cnvqMKdmcOh\/mxzZ+YcFIULTPaQwaxpHmK9CUWzik=",
+      "hash": "sha256-T7Vz6q3JHd0mpKktSiMw4RdxRhZjwzTH8OrohJlutmw=",
       "url": "_framework\/blazor.boot.json"
     }
   ],
-  "version": "vkMpfuH9"
+  "version": "4uWnT1j7"
 };

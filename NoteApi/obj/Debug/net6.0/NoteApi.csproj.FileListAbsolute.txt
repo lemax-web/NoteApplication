@@ -85,3 +85,6 @@ C:\Users\Research\source\repos\NoteApp\NoteApi\obj\Debug\net6.0\refint\NoteApi.d
 C:\Users\Research\source\repos\NoteApp\NoteApi\obj\Debug\net6.0\NoteApi.pdb
 C:\Users\Research\source\repos\NoteApp\NoteApi\obj\Debug\net6.0\NoteApi.genruntimeconfig.cache
 C:\Users\Research\source\repos\NoteApp\NoteApi\obj\Debug\net6.0\ref\NoteApi.dll
+C:\Users\Research\source\repos\NoteApp\NoteApi\bin\Debug\net6.0\NoteApp.ClassLib.dll
+C:\Users\Research\source\repos\NoteApp\NoteApi\bin\Debug\net6.0\NoteApp.ClassLib.pdb
+C:\Users\Research\source\repos\NoteApp\NoteApi\bin\Debug\net6.0\Microsoft.Extensions.Http.dll

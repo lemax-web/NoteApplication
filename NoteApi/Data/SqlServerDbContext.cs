@@ -1,6 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using NoteApi.Model;
-
+using NoteApp.ClassLib.Model;
 
 namespace RecipeWebApi.Data
 {

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "wQ+oIO0o5To/76UBSUoTeFPqmdi48kASbwdUZaJQDys=",
+  "Hash": "m7LFeduh7ZTExGraPkDSUTFKNkvr+d5L9ku5PFtUPe0=",
   "Source": "NoteApp",
   "BasePath": "/",
   "Mode": "Root",
@@ -388,7 +388,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Research\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\lib\\net6.0\\Microsoft.Extensions.DependencyInjection.Abstractions.dll"
+      "OriginalItemSpec": "C:\\Users\\Research\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\lib\\net6.0\\Microsoft.Extensions.DependencyInjection.Abstractions.dll"
     },
     {
       "Identity": "C:\\Users\\Research\\source\\repos\\NoteApp\\NoteApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.DependencyInjection.dll",
@@ -405,7 +405,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Research\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.1\\lib\\net6.0\\Microsoft.Extensions.DependencyInjection.dll"
+      "OriginalItemSpec": "C:\\Users\\Research\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\lib\\net6.0\\Microsoft.Extensions.DependencyInjection.dll"
     },
     {
       "Identity": "C:\\Users\\Research\\source\\repos\\NoteApp\\NoteApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.FileProviders.Abstractions.dll",
@@ -459,6 +459,23 @@
       "OriginalItemSpec": "C:\\Users\\Research\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\6.0.0\\lib\\net6.0\\Microsoft.Extensions.FileSystemGlobbing.dll"
     },
     {
+      "Identity": "C:\\Users\\Research\\source\\repos\\NoteApp\\NoteApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Http.dll",
+      "SourceId": "NoteApp",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Research\\source\\repos\\NoteApp\\NoteApp\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.Extensions.Http.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Research\\.nuget\\packages\\microsoft.extensions.http\\7.0.0\\lib\\net6.0\\Microsoft.Extensions.Http.dll"
+    },
+    {
       "Identity": "C:\\Users\\Research\\source\\repos\\NoteApp\\NoteApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Logging.Abstractions.dll",
       "SourceId": "NoteApp",
       "SourceType": "Computed",
@@ -473,7 +490,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Research\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.3\\lib\\net6.0\\Microsoft.Extensions.Logging.Abstractions.dll"
+      "OriginalItemSpec": "C:\\Users\\Research\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\lib\\net6.0\\Microsoft.Extensions.Logging.Abstractions.dll"
     },
     {
       "Identity": "C:\\Users\\Research\\source\\repos\\NoteApp\\NoteApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Logging.dll",
@@ -490,7 +507,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Research\\.nuget\\packages\\microsoft.extensions.logging\\6.0.0\\lib\\netstandard2.1\\Microsoft.Extensions.Logging.dll"
+      "OriginalItemSpec": "C:\\Users\\Research\\.nuget\\packages\\microsoft.extensions.logging\\7.0.0\\lib\\net6.0\\Microsoft.Extensions.Logging.dll"
     },
     {
       "Identity": "C:\\Users\\Research\\source\\repos\\NoteApp\\NoteApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Options.dll",
@@ -507,7 +524,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Research\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\lib\\netstandard2.1\\Microsoft.Extensions.Options.dll"
+      "OriginalItemSpec": "C:\\Users\\Research\\.nuget\\packages\\microsoft.extensions.options\\7.0.0\\lib\\net6.0\\Microsoft.Extensions.Options.dll"
     },
     {
       "Identity": "C:\\Users\\Research\\source\\repos\\NoteApp\\NoteApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Primitives.dll",
@@ -524,7 +541,7 @@
       "AssetTraitValue": "runtime",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Research\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\lib\\net6.0\\Microsoft.Extensions.Primitives.dll"
+      "OriginalItemSpec": "C:\\Users\\Research\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\lib\\net6.0\\Microsoft.Extensions.Primitives.dll"
     },
     {
       "Identity": "C:\\Users\\Research\\source\\repos\\NoteApp\\NoteApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.JSInterop.dll",
@@ -661,6 +678,40 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Research\\.nuget\\packages\\microsoft.netcore.app.runtime.mono.browser-wasm\\6.0.18\\runtimes\\browser-wasm\\lib\\net6.0\\netstandard.dll"
+    },
+    {
+      "Identity": "C:\\Users\\Research\\source\\repos\\NoteApp\\NoteApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\NoteApp.ClassLib.dll",
+      "SourceId": "NoteApp",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Research\\source\\repos\\NoteApp\\NoteApp\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/NoteApp.ClassLib.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Research\\source\\repos\\NoteApp\\NoteApp.ClassLib\\bin\\Debug\\net6.0\\NoteApp.ClassLib.dll"
+    },
+    {
+      "Identity": "C:\\Users\\Research\\source\\repos\\NoteApp\\NoteApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\NoteApp.ClassLib.pdb",
+      "SourceId": "NoteApp",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Research\\source\\repos\\NoteApp\\NoteApp\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/NoteApp.ClassLib.pdb",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "symbol",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Research\\source\\repos\\NoteApp\\NoteApp.ClassLib\\bin\\Debug\\net6.0\\NoteApp.ClassLib.pdb"
     },
     {
       "Identity": "C:\\Users\\Research\\source\\repos\\NoteApp\\NoteApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\NoteApp.dll",
@@ -3519,6 +3570,23 @@
       "OriginalItemSpec": "C:\\Users\\Research\\source\\repos\\NoteApp\\NoteApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Runtime.Serialization.Json.dll"
     },
     {
+      "Identity": "C:\\Users\\Research\\source\\repos\\NoteApp\\NoteApp\\obj\\Debug\\net6.0\\build-gz\\+Xoeftiq.gz",
+      "SourceId": "NoteApp",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Research\\source\\repos\\NoteApp\\NoteApp\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.Extensions.Logging.Abstractions.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\Research\\source\\repos\\NoteApp\\NoteApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Logging.Abstractions.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Research\\source\\repos\\NoteApp\\NoteApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Logging.Abstractions.dll"
+    },
+    {
       "Identity": "C:\\Users\\Research\\source\\repos\\NoteApp\\NoteApp\\obj\\Debug\\net6.0\\build-gz\\07+sjbb+.gz",
       "SourceId": "NoteApp",
       "SourceType": "Computed",
@@ -4216,6 +4284,23 @@
       "OriginalItemSpec": "C:\\Users\\Research\\source\\repos\\NoteApp\\NoteApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Xml.XDocument.dll"
     },
     {
+      "Identity": "C:\\Users\\Research\\source\\repos\\NoteApp\\NoteApp\\obj\\Debug\\net6.0\\build-gz\\B3Ll+T8F.gz",
+      "SourceId": "NoteApp",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Research\\source\\repos\\NoteApp\\NoteApp\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/NoteApp.ClassLib.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\Research\\source\\repos\\NoteApp\\NoteApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\NoteApp.ClassLib.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Research\\source\\repos\\NoteApp\\NoteApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\NoteApp.ClassLib.dll"
+    },
+    {
       "Identity": "C:\\Users\\Research\\source\\repos\\NoteApp\\NoteApp\\obj\\Debug\\net6.0\\build-gz\\BDmU2ihx.gz",
       "SourceId": "NoteApp",
       "SourceType": "Computed",
@@ -4265,6 +4350,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Research\\source\\repos\\NoteApp\\NoteApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Collections.Immutable.dll"
+    },
+    {
+      "Identity": "C:\\Users\\Research\\source\\repos\\NoteApp\\NoteApp\\obj\\Debug\\net6.0\\build-gz\\BlLWQ9Gd.gz",
+      "SourceId": "NoteApp",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Research\\source\\repos\\NoteApp\\NoteApp\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\Research\\source\\repos\\NoteApp\\NoteApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.DependencyInjection.Abstractions.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Research\\source\\repos\\NoteApp\\NoteApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.DependencyInjection.Abstractions.dll"
     },
     {
       "Identity": "C:\\Users\\Research\\source\\repos\\NoteApp\\NoteApp\\obj\\Debug\\net6.0\\build-gz\\ByvUijHY.gz",
@@ -4350,23 +4452,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Research\\source\\repos\\NoteApp\\NoteApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Net.WebSockets.Client.dll"
-    },
-    {
-      "Identity": "C:\\Users\\Research\\source\\repos\\NoteApp\\NoteApp\\obj\\Debug\\net6.0\\build-gz\\dhK9rBsT.gz",
-      "SourceId": "NoteApp",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Research\\source\\repos\\NoteApp\\NoteApp\\bin\\Debug\\net6.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.Extensions.Options.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "C:\\Users\\Research\\source\\repos\\NoteApp\\NoteApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Options.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Research\\source\\repos\\NoteApp\\NoteApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Options.dll"
     },
     {
       "Identity": "C:\\Users\\Research\\source\\repos\\NoteApp\\NoteApp\\obj\\Debug\\net6.0\\build-gz\\DICZvBy+.gz",
@@ -4590,6 +4675,23 @@
       "OriginalItemSpec": "C:\\Users\\Research\\source\\repos\\NoteApp\\NoteApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Diagnostics.TraceSource.dll"
     },
     {
+      "Identity": "C:\\Users\\Research\\source\\repos\\NoteApp\\NoteApp\\obj\\Debug\\net6.0\\build-gz\\exqBDnMF.gz",
+      "SourceId": "NoteApp",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Research\\source\\repos\\NoteApp\\NoteApp\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.Extensions.Logging.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\Research\\source\\repos\\NoteApp\\NoteApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Logging.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Research\\source\\repos\\NoteApp\\NoteApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Logging.dll"
+    },
+    {
       "Identity": "C:\\Users\\Research\\source\\repos\\NoteApp\\NoteApp\\obj\\Debug\\net6.0\\build-gz\\ExWcsJjG.gz",
       "SourceId": "NoteApp",
       "SourceType": "Computed",
@@ -4656,23 +4758,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Research\\source\\repos\\NoteApp\\NoteApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Xml.dll"
-    },
-    {
-      "Identity": "C:\\Users\\Research\\source\\repos\\NoteApp\\NoteApp\\obj\\Debug\\net6.0\\build-gz\\FCEXPHP0.gz",
-      "SourceId": "NoteApp",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Research\\source\\repos\\NoteApp\\NoteApp\\bin\\Debug\\net6.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.Extensions.Logging.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "C:\\Users\\Research\\source\\repos\\NoteApp\\NoteApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Logging.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Research\\source\\repos\\NoteApp\\NoteApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Logging.dll"
     },
     {
       "Identity": "C:\\Users\\Research\\source\\repos\\NoteApp\\NoteApp\\obj\\Debug\\net6.0\\build-gz\\fclLnkCP.gz",
@@ -4758,23 +4843,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Research\\source\\repos\\NoteApp\\NoteApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Net.NetworkInformation.dll"
-    },
-    {
-      "Identity": "C:\\Users\\Research\\source\\repos\\NoteApp\\NoteApp\\obj\\Debug\\net6.0\\build-gz\\gbhqDGSA.gz",
-      "SourceId": "NoteApp",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Research\\source\\repos\\NoteApp\\NoteApp\\bin\\Debug\\net6.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "C:\\Users\\Research\\source\\repos\\NoteApp\\NoteApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.DependencyInjection.Abstractions.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Research\\source\\repos\\NoteApp\\NoteApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.DependencyInjection.Abstractions.dll"
     },
     {
       "Identity": "C:\\Users\\Research\\source\\repos\\NoteApp\\NoteApp\\obj\\Debug\\net6.0\\build-gz\\gc9jrdiH.gz",
@@ -4877,6 +4945,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Research\\source\\repos\\NoteApp\\NoteApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\icudt.dat"
+    },
+    {
+      "Identity": "C:\\Users\\Research\\source\\repos\\NoteApp\\NoteApp\\obj\\Debug\\net6.0\\build-gz\\H48QCr6K.gz",
+      "SourceId": "NoteApp",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Research\\source\\repos\\NoteApp\\NoteApp\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.Extensions.Options.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\Research\\source\\repos\\NoteApp\\NoteApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Options.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Research\\source\\repos\\NoteApp\\NoteApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Options.dll"
     },
     {
       "Identity": "C:\\Users\\Research\\source\\repos\\NoteApp\\NoteApp\\obj\\Debug\\net6.0\\build-gz\\hlKbdTxp.gz",
@@ -5338,23 +5423,6 @@
       "OriginalItemSpec": "C:\\Users\\Research\\source\\repos\\NoteApp\\NoteApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Numerics.Vectors.dll"
     },
     {
-      "Identity": "C:\\Users\\Research\\source\\repos\\NoteApp\\NoteApp\\obj\\Debug\\net6.0\\build-gz\\LfxY+OLG.gz",
-      "SourceId": "NoteApp",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Research\\source\\repos\\NoteApp\\NoteApp\\bin\\Debug\\net6.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.Extensions.Logging.Abstractions.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "C:\\Users\\Research\\source\\repos\\NoteApp\\NoteApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Logging.Abstractions.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Research\\source\\repos\\NoteApp\\NoteApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Logging.Abstractions.dll"
-    },
-    {
       "Identity": "C:\\Users\\Research\\source\\repos\\NoteApp\\NoteApp\\obj\\Debug\\net6.0\\build-gz\\lK30UieU.gz",
       "SourceId": "NoteApp",
       "SourceType": "Computed",
@@ -5387,6 +5455,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Research\\source\\repos\\NoteApp\\NoteApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.ComponentModel.EventBasedAsync.dll"
+    },
+    {
+      "Identity": "C:\\Users\\Research\\source\\repos\\NoteApp\\NoteApp\\obj\\Debug\\net6.0\\build-gz\\lLt5H8o5.gz",
+      "SourceId": "NoteApp",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Research\\source\\repos\\NoteApp\\NoteApp\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.Extensions.Primitives.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\Research\\source\\repos\\NoteApp\\NoteApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Primitives.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Research\\source\\repos\\NoteApp\\NoteApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Primitives.dll"
     },
     {
       "Identity": "C:\\Users\\Research\\source\\repos\\NoteApp\\NoteApp\\obj\\Debug\\net6.0\\build-gz\\lSDbIU25.gz",
@@ -5950,6 +6035,23 @@
       "OriginalItemSpec": "C:\\Users\\Research\\source\\repos\\NoteApp\\NoteApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.ComponentModel.DataAnnotations.dll"
     },
     {
+      "Identity": "C:\\Users\\Research\\source\\repos\\NoteApp\\NoteApp\\obj\\Debug\\net6.0\\build-gz\\S7jC9YCI.gz",
+      "SourceId": "NoteApp",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Research\\source\\repos\\NoteApp\\NoteApp\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/NoteApp.ClassLib.pdb.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\Research\\source\\repos\\NoteApp\\NoteApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\NoteApp.ClassLib.pdb",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Research\\source\\repos\\NoteApp\\NoteApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\NoteApp.ClassLib.pdb"
+    },
+    {
       "Identity": "C:\\Users\\Research\\source\\repos\\NoteApp\\NoteApp\\obj\\Debug\\net6.0\\build-gz\\SSwSVQBI.gz",
       "SourceId": "NoteApp",
       "SourceType": "Computed",
@@ -5965,6 +6067,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Research\\source\\repos\\NoteApp\\NoteApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Memory.dll"
+    },
+    {
+      "Identity": "C:\\Users\\Research\\source\\repos\\NoteApp\\NoteApp\\obj\\Debug\\net6.0\\build-gz\\sVpnwr3V.gz",
+      "SourceId": "NoteApp",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Research\\source\\repos\\NoteApp\\NoteApp\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.Extensions.DependencyInjection.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\Research\\source\\repos\\NoteApp\\NoteApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.DependencyInjection.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Research\\source\\repos\\NoteApp\\NoteApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.DependencyInjection.dll"
     },
     {
       "Identity": "C:\\Users\\Research\\source\\repos\\NoteApp\\NoteApp\\obj\\Debug\\net6.0\\build-gz\\SY0gba+E.gz",
@@ -6239,23 +6358,6 @@
       "OriginalItemSpec": "C:\\Users\\Research\\source\\repos\\NoteApp\\NoteApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Reflection.Emit.dll"
     },
     {
-      "Identity": "C:\\Users\\Research\\source\\repos\\NoteApp\\NoteApp\\obj\\Debug\\net6.0\\build-gz\\vM50KG61.gz",
-      "SourceId": "NoteApp",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Research\\source\\repos\\NoteApp\\NoteApp\\bin\\Debug\\net6.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.Extensions.DependencyInjection.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "C:\\Users\\Research\\source\\repos\\NoteApp\\NoteApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.DependencyInjection.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Research\\source\\repos\\NoteApp\\NoteApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.DependencyInjection.dll"
-    },
-    {
       "Identity": "C:\\Users\\Research\\source\\repos\\NoteApp\\NoteApp\\obj\\Debug\\net6.0\\build-gz\\VVaHjVdF.gz",
       "SourceId": "NoteApp",
       "SourceType": "Computed",
@@ -6305,6 +6407,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Research\\source\\repos\\NoteApp\\NoteApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Collections.Specialized.dll"
+    },
+    {
+      "Identity": "C:\\Users\\Research\\source\\repos\\NoteApp\\NoteApp\\obj\\Debug\\net6.0\\build-gz\\w8dLt0wi.gz",
+      "SourceId": "NoteApp",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\Research\\source\\repos\\NoteApp\\NoteApp\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Microsoft.Extensions.Http.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "C:\\Users\\Research\\source\\repos\\NoteApp\\NoteApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Http.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "C:\\Users\\Research\\source\\repos\\NoteApp\\NoteApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Http.dll"
     },
     {
       "Identity": "C:\\Users\\Research\\source\\repos\\NoteApp\\NoteApp\\obj\\Debug\\net6.0\\build-gz\\W8iSsCY+.gz",
@@ -6475,23 +6594,6 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\Research\\source\\repos\\NoteApp\\NoteApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.CSharp.dll"
-    },
-    {
-      "Identity": "C:\\Users\\Research\\source\\repos\\NoteApp\\NoteApp\\obj\\Debug\\net6.0\\build-gz\\WzeDk4wY.gz",
-      "SourceId": "NoteApp",
-      "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Research\\source\\repos\\NoteApp\\NoteApp\\bin\\Debug\\net6.0\\wwwroot\\",
-      "BasePath": "/",
-      "RelativePath": "_framework/Microsoft.Extensions.Primitives.dll.gz",
-      "AssetKind": "Build",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "RelatedAsset": "C:\\Users\\Research\\source\\repos\\NoteApp\\NoteApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Primitives.dll",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "CopyToOutputDirectory": "PreserveNewest",
-      "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\Research\\source\\repos\\NoteApp\\NoteApp\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Microsoft.Extensions.Primitives.dll"
     },
     {
       "Identity": "C:\\Users\\Research\\source\\repos\\NoteApp\\NoteApp\\obj\\Debug\\net6.0\\build-gz\\XKJmILbB.gz",
